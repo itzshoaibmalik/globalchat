@@ -6,7 +6,7 @@ known conversations. This is an open source Chat platform which doesn't require 
 
 
 [![GitHub license](https://img.shields.io/github/license/itzshoaibmalik/globalchat.js.svg)](https://github.com/itzshoaibmalik/globalchat.js/blob/master/LICENSE)
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/itzshoaibmalik/globalchat.js/network/)
+[![GitHub forks](https://img.shields.io/github/forks/itzshoaibmalkk/globalchat.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/itzshoaibmalik/globalchat.js/network/)
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/itzshoaibmalik/globalchat.js/stargazers/)
 [![GitHub watchers](https://img.shields.io/github/watchers/itzshoaibmalik/globalchat.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/itzshoaibmalik/globalchat.js/watchers/)
 ![Profile views](https://gpvc.arturio.dev/itzshoaibmalik)
